@@ -1,11 +1,3 @@
 {
-  "users": [
-    {
-      "name": "Safa",
-      "email": "safa@example.com",
-      "password": "$2b$10$oE4Q9WWrVZUIyd3Prc7ln.8.duGIF6VUgR4/RyvBWX0m0KIoOwAmS",
-      "profileImage": "",
-      "signupDate": "2025-12-10"
-    }
-  ]
+  "users": []
 }
